@@ -1,2 +1,2 @@
 # dsa-cpp
-DSA solutions in C++ — Striver A2Z Sheet
+DSA solutions in C++
